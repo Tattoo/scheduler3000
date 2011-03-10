@@ -8,7 +8,7 @@ import junit.framework.TestCase;
 
 import org.junit.* ;
 
-import ohtuk10.*;
+import fi.helsinki.cs.scheduler3000.*;
 
 public class EventTest extends TestCase{
 	

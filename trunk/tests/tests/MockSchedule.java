@@ -9,10 +9,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import ohtuk10.Event;
-import ohtuk10.Schedule;
-import ohtuk10.Weekday;
-import ohtuk10.Weekday.Day;
+import fi.helsinki.cs.scheduler3000.*;
+import fi.helsinki.cs.scheduler3000.Weekday.Day;
 
 public class MockSchedule extends Schedule {
 

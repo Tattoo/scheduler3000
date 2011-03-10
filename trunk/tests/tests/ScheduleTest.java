@@ -10,8 +10,8 @@ import java.util.HashMap;
 import junit.framework.TestCase;
 import org.junit.*;
 
-import ohtuk10.*;
-import ohtuk10.Weekday.Day;
+import fi.helsinki.cs.scheduler3000.*;
+import fi.helsinki.cs.scheduler3000.Weekday.Day;
 
 public class ScheduleTest extends TestCase {
 

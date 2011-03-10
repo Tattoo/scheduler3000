@@ -6,11 +6,11 @@ package tests;
 
 
 import org.junit.* ;
+
+import fi.helsinki.cs.scheduler3000.*;
 import junit.framework.TestCase;
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import ohtuk10.*;
 
 public class ReportFactoryTest extends TestCase {
 

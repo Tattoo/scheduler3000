@@ -1,4 +1,4 @@
-package ohtuk10;
+package fi.helsinki.cs.scheduler3000;
 
 /**
  * @author Team TA's
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import ohtuk10.Weekday.Day;
+import fi.helsinki.cs.scheduler3000.Weekday.Day;
 
 public class Schedule implements Serializable {
 	

@@ -1,4 +1,4 @@
-package ohtuk10;
+package fi.helsinki.cs.scheduler3000;
 
 /**
  * @author Team TA's
