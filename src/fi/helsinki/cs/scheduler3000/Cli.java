@@ -1,4 +1,4 @@
-package ohtuk10;
+package fi.helsinki.cs.scheduler3000;
 
 /**
  * @author Team TA's
@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-import ohtuk10.Weekday.Day;
+import fi.helsinki.cs.scheduler3000.Weekday.Day;
 
 public class Cli {
 

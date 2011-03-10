@@ -1,4 +1,5 @@
-package ohtuk10;
+package fi.helsinki.cs.scheduler3000;
+
 
 /**
  * @author Team TA's
@@ -8,7 +9,7 @@ package ohtuk10;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import ohtuk10.Weekday.Day;
+import fi.helsinki.cs.scheduler3000.Weekday.Day;
 
 public class WeekReport extends Report {
 
