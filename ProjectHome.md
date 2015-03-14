@@ -1,0 +1,1 @@
+This is part of the exercises of course Software Engineering on Department of Computer Science, University of Helsinki
